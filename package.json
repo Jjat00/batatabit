@@ -1,0 +1,23 @@
+{
+  "name": "batatabit",
+  "version": "1.0.0",
+  "description": "web page design with mobile first",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@Jjat00.github.com:Jjat00/bata-bit.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "mobile first"
+  ],
+  "author": "Jaime Aza",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "5.0.0"
+  }
+}
